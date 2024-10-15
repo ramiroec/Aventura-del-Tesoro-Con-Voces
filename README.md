@@ -86,7 +86,7 @@ Las contribuciones son bienvenidas. Si deseas agregar nuevas características o 
 
 ## 📝 Licencia
 
-Este proyecto está bajo la Licencia MIT. Mira el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT. 
 
 ---
 
