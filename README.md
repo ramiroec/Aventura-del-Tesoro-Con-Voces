@@ -21,7 +21,7 @@
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/tu-usuario/python-trivia-game.git
+    git clone https://github.com/ramiroec/Aventura-del-Tesoro-Con-Voces.git
     ```
 
 2. Instala las dependencias necesarias:
@@ -39,7 +39,7 @@
 3. ¡Listo! Ejecuta el juego con:
 
     ```bash
-    python trivia.py
+    python main.py
     ```
 
 ## 🎮 Cómo Jugar
