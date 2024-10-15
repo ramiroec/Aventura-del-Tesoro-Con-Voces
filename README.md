@@ -83,7 +83,6 @@ Las contribuciones son bienvenidas. Si deseas agregar nuevas características o 
 ## 👨‍💻 Desarrollador
 
 **Ramiro Estigarribia**  
-¡Siéntete libre de conectarte conmigo en [LinkedIn](https://www.linkedin.com)! 😊
 
 ## 📝 Licencia
 
